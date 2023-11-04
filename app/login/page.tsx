@@ -7,7 +7,7 @@ import {
   signInWithPopup,
   
 } from "firebase/auth";
-import { redirect, useRouter } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { auth, provider } from "../firebase";
 import Link from "next/link";
 
