@@ -4,7 +4,7 @@ import { GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
   apiKey: "AIzaSyDsLx1OFDra2rwHxYUIxTNUnL5V7Wds8Ww",
-  authDomain: "pomodoro-timer-cd3bd.firebaseapp.com",
+  authDomain: "pomodoro-timer-cd3bd.firebaseapp.com", 
   projectId: "pomodoro-timer-cd3bd",
   storageBucket: "pomodoro-timer-cd3bd.appspot.com",
   messagingSenderId: "178285147820",
